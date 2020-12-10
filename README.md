@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Betacrew-frontend
 
 How to run on Local Machine
 
