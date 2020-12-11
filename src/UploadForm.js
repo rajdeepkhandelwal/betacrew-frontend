@@ -31,7 +31,6 @@ const UploadForm = ({ issubmit, setIssubmit }) => {
           ...values,
           error: "",
           inputKey: randomString,
-          formData: "",
         });
         setIssubmit(!issubmit);
       }
